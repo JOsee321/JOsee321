@@ -1,50 +1,22 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" />
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Josee
+==============================================================================================================================
 
-###
+Backend Developer & Security Enthusiast
+---------------------------------------
 
-<h1 align="center">Hey there, I'm Josee 👋</h1>
+I'm a software developer with a focus on building efficient and scalable tools. Currently, I'm deep-diving into Golang to enhance the performance of my latest project, VultraScan. I enjoy the process of optimizing code and documenting workflows to make software more accessible and accurate for everyone.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JOsee321.JOsee321" alt="visitor badge" />
-</div>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
+* 🌍  I'm based in Banjarbaru, Indonesia
+* ✉️  You can contact me at [rafiwildan257@gmail.com](mailto:rafiwildan257@gmail.com)
+* 🚀  I'm currently working on [VultraScan](http://github.com/JOsee231/VultraScan)
+* 🧠  I'm currently learning Advanced Cybersecurity & Pentesting Frameworks
+* 👥  I'm looking to collaborate on Open-source Security Auditing Tools
+* 💬  Ask me about Full-time student, part-time security researcher.
 
 <p align="left">
-- 🔭 I’m currently working on **VultraScan**<br>
-- 📚 I'm currently learning **Golang** and **Python**<br>
-- ⚡ Fun fact: I love building tools that automate the boring stuff
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 </p>
 
-###
+### Socials
 
-<h3 align="left">🛠 Language and Tools</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,go,py" height="50" alt="tech stack" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOsee321&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=JOsee321&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/JOsee321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:emailkamu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</div>
+<p align="left"> <a href="https://www.github.com/JOsee321" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/jimmvy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/josee.sikma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
